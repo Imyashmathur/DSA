@@ -140,7 +140,7 @@ int main(){
 
     
 }*/
-void printArray(int arr[],int n){
+/*void printArray(int arr[],int n){
     for(int i=0;i<n;i++){
         cout<<arr[i];
     }
@@ -170,7 +170,7 @@ void sortArray(int arr[],int n){
       sortArray(arr,6);
       printArray(arr,6);
         return 0;
-      }
+      }*/
 
 
    
